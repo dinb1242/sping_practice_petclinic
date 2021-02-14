@@ -13,11 +13,11 @@ Download : <a href="https://www.oracle.com/kr/java/technologies/javase-jdk11-dow
 ### Java 11 JDK 설치 방법
 1. 설치파일을 다운로드하여 설치
 2. 자바 환경 변수 세팅
- 2-1. 환경변수 - 시스템 변수에서 CLASSPATH 변수 추가
- 2-2. CLASSPATH의 변수 값 - %classpath%;. 으로 설정
- 2-3. 시스템 변수에서 JAVA_HOME 변수 추가
- 2-4. C:\Program Files\Java\<자바 경로> 변수 값 설정
- 2-5. 시스템 변수에서 PATH에 %JAVA_HOME%\bin 추가
+ 2-1. 환경변수 - 시스템 변수에서 CLASSPATH 변수 추가 <br>
+ 2-2. CLASSPATH의 변수 값 - %classpath%;. 으로 설정<br>
+ 2-3. 시스템 변수에서 JAVA_HOME 변수 추가<br>
+ 2-4. C:\Program Files\Java\<자바 경로> 변수 값 설정<br>
+ 2-5. 시스템 변수에서 PATH에 %JAVA_HOME%\bin 추가<br>
 3. cmd에서 테스트
 
 ## Running petclinic locally
